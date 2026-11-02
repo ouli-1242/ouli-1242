@@ -12,16 +12,11 @@
 
 **其他项目**
 
-- [Cursor-zh](https://github.com/ouli-1242/Cursor-zh) —— Cursor 汉化工具，一键汉化/还原、自动备份，覆盖 Windows / macOS / Linux；179 次提交。
-- [FIT-graduation-project](https://github.com/ouli-1242/FIT-graduation-project) —— 毕业论文格式检测与修复：67 条机判条款，DOCX 内核 + 白名单安全修复，FastAPI + Vue 3。
+- [openeye-mcp](https://github.com/ouli-1242/openeye-mcp) —— 给纯文本模型加视觉的 MCP Server：读图、OCR、视觉问答、UI 布局分析、表格转 Markdown；支持 5 类视觉后端，含 SSRF 防护与缓存；PyPI 月下载 263（基于 deepeye 二创）。
+- [Cursor-zh](https://github.com/ouli-1242/Cursor-zh) —— Cursor 汉化工具，一键汉化/还原、自动备份，覆盖 Windows / macOS / Linux。
 - [Youji-Travel-Sharing-Platform](https://github.com/ouli-1242/Youji-Travel-Sharing-Platform) —— 游迹：AI 行程规划 + 游记社区的微信小程序（uni-app / Vue 3）。
 - [ouli-Super-plugins](https://github.com/ouli-1242/ouli-Super-plugins) —— 个人在用的插件合集，含自创与二创。
 - [dsh-purge-ouli](https://github.com/ouli-1242/dsh-purge-ouli) —— DSH 清理插件（二创，署名与二开要求见 README）。
-
-**维护的清单**
-
-- [awesome-dsh-plugin](https://github.com/ouli-1242/awesome-dsh-plugin) —— DSH 插件精选列表（fork 维护）。
-- [awesome-deepseek-harness](https://github.com/ouli-1242/awesome-deepseek-harness) —— DSH 生态插件、工具与基础设施清单（fork 维护）。
 
 **视频**（Remotion 制作）
 
@@ -30,6 +25,6 @@
 
 **说明**
 
-- `dhole-mcp`、`Cursor-zh`、`dsh-purge-ouli` 为 MIT 或社区项目二创，署名与具体改动见各自 README。
+- `dhole-mcp`、`openeye-mcp`、`Cursor-zh`、`dsh-purge-ouli` 为 MIT 或社区项目二创，署名与具体改动见各自 README。
 - `FastGraph-mcp`、`dsh-plugin-tool-management` 为原创项目。
 - 数据为 2026 年 11 月的公开统计（npm / PyPI / GitHub），会随版本变化。
