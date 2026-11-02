@@ -12,7 +12,7 @@
 
 **其他项目**
 
-- [openeye-mcp](https://github.com/ouli-1242/openeye-mcp) —— 给纯文本模型加视觉的 MCP Server：读图、OCR、视觉问答、UI 布局分析、表格转 Markdown；支持 5 类视觉后端，含 SSRF 防护与缓存；PyPI 月下载 263（基于 deepeye 二创）。
+- [openeye-mcp](https://github.com/ouli-1242/openeye-mcp) —— 给纯文本模型加视觉的 MCP Server：读图、OCR、视觉问答、UI 布局分析、表格转 Markdown；（基于 deepeye 二创）。
 - [Cursor-zh](https://github.com/ouli-1242/Cursor-zh) —— Cursor 汉化工具，一键汉化/还原、自动备份，覆盖 Windows / macOS / Linux。
 - [Youji-Travel-Sharing-Platform](https://github.com/ouli-1242/Youji-Travel-Sharing-Platform) —— 游迹：AI 行程规划 + 游记社区的微信小程序（uni-app / Vue 3）。
 - [ouli-Super-plugins](https://github.com/ouli-1242/ouli-Super-plugins) —— 个人在用的插件合集，含自创与二创。
