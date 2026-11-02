@@ -8,7 +8,7 @@
 
 | 项目 | 做什么 | 数据 |
 |---|---|---|
-| [dsh-plugin-tool-management](https://github.com/ouli-1242/dsh-plugin-tool-management) | 一个面板管理 MCP、技能、记忆、子智能体、提示词与归档会话，支持场景一键切换整套环境 | npm 累计下载 12,472 · 36★ |
+| [dsh-plugin-tool-management](https://github.com/ouli-1242/dsh-plugin-tool-management) | 一个面板管理 MCP、技能、记忆、子智能体、提示词与归档会话，支持场景一键切换整套环境 | npm 累计下载 12,472 · 36★ · [官网](https://dsh-tool-management-licdbk1e0fm.qoder.website/) |
 | [dhole-mcp](https://github.com/ouli-1242/dhole-mcp) | 给 AI Agent 用的 Web 研究 MCP：抓取、爬站、免密钥搜索、PDF/OCR、页面操作、变更监控 | PyPI 累计下载 11,206 · 13 个工具 |
 | [FastGraph-mcp](https://github.com/ouli-1242/FastGraph-mcp) | 代码智能 MCP：AST + 增量索引 + 调用图，不用 embedding | PyPI 累计下载 2,615 · 1,979 个文件 20.7s 建索引 |
 
