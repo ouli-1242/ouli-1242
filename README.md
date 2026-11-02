@@ -1,22 +1,35 @@
-### ouli-1242
+### 你好，我是 ouli-1242
 
-I build developer tools for AI agents — MCP servers, agent plugins, and the docs that make them usable.
+做 AI Agent 方向的开发者工具：MCP Server、Agent 插件，以及让它们能被用起来的中文文档和视频。
 
-**Maintained projects**
+**主线项目**
 
-| Project | What it does | Traction |
+| 项目 | 做什么 | 数据 |
 |---|---|---|
-| [dsh-plugin-tool-management](https://github.com/ouli-1242/dsh-plugin-tool-management) | One settings panel for MCP, skills, memory, subagents, prompts and archived sessions; scene switching per environment | npm 7,897 downloads/mo · 36★ · 22 releases |
-| [dhole-mcp](https://github.com/ouli-1242/dhole-mcp) | Web research MCP server: fetch, crawl, keyless search, PDF/OCR, page actions, change monitoring | PyPI 3,454 downloads/mo · 581 commits · 4,212 tests |
-| [FastGraph-mcp](https://github.com/ouli-1242/FastGraph-mcp) | Code intelligence MCP server: AST, incremental index, call graph — no embeddings | PyPI 576 downloads/mo · 1,979 files indexed in 20.7s |
+| [dsh-plugin-tool-management](https://github.com/ouli-1242/dsh-plugin-tool-management) | 一个面板管理 MCP、技能、记忆、子智能体、提示词与归档会话，支持场景一键切换整套环境 | npm 月下载 7,897 · 36★ · 22 个 Release |
+| [dhole-mcp](https://github.com/ouli-1242/dhole-mcp) | 给 AI Agent 用的 Web 研究 MCP：抓取、爬站、免密钥搜索、PDF/OCR、页面操作、变更监控 | PyPI 月下载 3,454 · 581 次提交 · 4,212 个测试用例 |
+| [FastGraph-mcp](https://github.com/ouli-1242/FastGraph-mcp) | 代码智能 MCP：AST + 增量索引 + 调用图，不用 embedding | PyPI 月下载 576 · 1,979 个文件 20.7s 建索引 |
 
-**Videos** — built with Remotion
+**其他项目**
 
-- [一个面板接管你的 DSH 环境](https://www.bilibili.com/video/BV1Vmnb6xETz/) — 5,583 plays
-- [不靠搜索 API，也不怕 403](https://www.bilibili.com/video/BV13cHM6cEyQ/) — 878 plays
+- [Cursor-zh](https://github.com/ouli-1242/Cursor-zh) —— Cursor 汉化工具，一键汉化/还原、自动备份，覆盖 Windows / macOS / Linux；179 次提交。
+- [FIT-graduation-project](https://github.com/ouli-1242/FIT-graduation-project) —— 毕业论文格式检测与修复：67 条机判条款，DOCX 内核 + 白名单安全修复，FastAPI + Vue 3。
+- [Youji-Travel-Sharing-Platform](https://github.com/ouli-1242/Youji-Travel-Sharing-Platform) —— 游迹：AI 行程规划 + 游记社区的微信小程序（uni-app / Vue 3）。
+- [ouli-Super-plugins](https://github.com/ouli-1242/ouli-Super-plugins) —— 个人在用的插件合集，含自创与二创。
+- [dsh-purge-ouli](https://github.com/ouli-1242/dsh-purge-ouli) —— DSH 清理插件（二创，署名与二开要求见 README）。
 
-**Notes**
+**维护的清单**
 
-- `dhole-mcp` is a derivative work of an MIT-licensed project; attribution and the list of changes are in its README.
-- `FastGraph-mcp` and `dsh-plugin-tool-management` are original projects.
-- Numbers above are public registry / GitHub figures, updated 2026-11.
+- [awesome-dsh-plugin](https://github.com/ouli-1242/awesome-dsh-plugin) —— DSH 插件精选列表（fork 维护）。
+- [awesome-deepseek-harness](https://github.com/ouli-1242/awesome-deepseek-harness) —— DSH 生态插件、工具与基础设施清单（fork 维护）。
+
+**视频**（Remotion 制作）
+
+- [一个面板接管你的 DSH 环境](https://www.bilibili.com/video/BV1Vmnb6xETz/) —— 播放 5,583
+- [不靠搜索 API，也不怕 403](https://www.bilibili.com/video/BV13cHM6cEyQ/) —— 播放 878
+
+**说明**
+
+- `dhole-mcp`、`Cursor-zh`、`dsh-purge-ouli` 为 MIT 或社区项目二创，署名与具体改动见各自 README。
+- `FastGraph-mcp`、`dsh-plugin-tool-management` 为原创项目。
+- 数据为 2026 年 11 月的公开统计（npm / PyPI / GitHub），会随版本变化。
